@@ -1,0 +1,50 @@
+date 
+job
+time in
+time out
+notes
+checkboxes
+admin side
+user side
+search by date
+admin to be able to search by job
+
+
+jobSessions
+
+joblist
+
+users
+
+
+users table holds the user accounts and details of people
+
+joblist holds the objective list of jobs
+
+jobSessions is where sessions are stored that record a user doing a certain job (melds the two tables)
+
+Users should be able to login but not create their own accounts
+
+there should be a separate admin part of the system for office staff to register users and jobs
+
+when a user is first registered their password should be generated automatically. the first time they log on to the system they should be able to set their own password.
+
+Admin should be able to display all jobs outstanding, all jobs completed, view jobs by date
+
+
+when viewing reports by project we want to:
+Choose a project
+see timeline of project from start to finish
+this should take the form of a list going backwards in time, each date should be separated by a line and a space
+each date should have a summary of how many people were registered on that job on that day and how many hours they did for that day on that job, if you click their name you go to that user for that day 
+there should be a summary of the total man hours that were spent on that job that day
+
+
+view by date
+This should show all projects worked on during that time and a list of staff/manhours for each project. then a sum total cost for each member of staff (ie wages)
+
+each member of staff should have a day rate
+
+
+
+
